@@ -1,6 +1,6 @@
+import account.BankAccount;
+import functionality.Bank;
 import junit.framework.TestCase;
-import org.junit.Test;
-import org.mockito.Mockito;
 
 import static org.mockito.Mockito.*;
 

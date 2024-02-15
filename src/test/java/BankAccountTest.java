@@ -1,4 +1,4 @@
-import org.junit.Before;
+import account.BankAccount;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

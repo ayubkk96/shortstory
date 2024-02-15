@@ -1,7 +1,11 @@
+package functionality;
+
+import account.BankAccount;
+
 import java.util.ArrayList;
 import java.util.List;
 
-class Bank {
+public class Bank {
     List<BankAccount> accounts = new ArrayList<>();
 
     public void addAccount(BankAccount account) {
